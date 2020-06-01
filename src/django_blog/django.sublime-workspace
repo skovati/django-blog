@@ -1,0 +1,430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_object",
+				"get_object_or_404"
+			],
+			[
+				"page",
+				"page_obj"
+			],
+			[
+				"Post",
+				"PostDeleteView"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"User",
+				"UserCreationForm"
+			],
+			[
+				"File",
+				"FileNotFoundException"
+			],
+			[
+				"length",
+				"length-prefix"
+			],
+			[
+				"arr",
+				"arrToString"
+			],
+			[
+				"end",
+				"endWith"
+			],
+			[
+				"computer",
+				"computerID"
+			],
+			[
+				"number",
+				"numberOfInterest"
+			],
+			[
+				"test",
+				"testReadWordSearch"
+			],
+			[
+				"word",
+				"wordString"
+			],
+			[
+				"dic",
+				"dictionaryFilename"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "django_blog/settings.py",
+			"settings":
+			{
+				"buffer_size": 4020,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "users/models.py",
+			"settings":
+			{
+				"buffer_size": 589,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/skovati/code/python/venv/django/src/django_blog",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/static",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/static/blog",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/templates",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/templates/blog",
+		"/home/skovati/code/python/venv/django/src/django_blog/django_blog",
+		"/home/skovati/code/python/venv/django/src/django_blog/users",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/templates",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/templates/users"
+	],
+	"file_history":
+	[
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/templates/blog/delete.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/models.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/models.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/django_blog/settings.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/templates/blog/detail.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/static/blog/main.css",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/templates/blog/base.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/views.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/templates/users/login.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/templates/blog/user_posts.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/templates/users/password_reset_done.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/templates/users/password_reset.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/templates/users/password_reset_confirm.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/templates/users/password_reset_complete.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/django_blog/urls.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/urls.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/templates/blog/home.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/templates/blog/create.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/templates/users/profile.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/forms.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/signals.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/views.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/apps.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/templates/users/logout.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/templates/users/register.html",
+		"/home/skovati/code/python/venv/django/src/django_blog/users/admin.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/admin.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/apps.py",
+		"/home/skovati/code/python/venv/django/src/django_blog/blog/templates/blog/about.html",
+		"/home/skovati/Documents/School/CS200/WordDetective.java",
+		"/home/skovati/Documents/School/CS200/sets50.txt",
+		"/home/skovati/Documents/School/CS200/TestWordDetective.java",
+		"/home/skovati/Documents/School/CS200/NestedPrinting.java",
+		"/home/skovati/Documents/School/CS200/CodeRefactor2.java",
+		"/home/skovati/Documents/backups/iota",
+		"/home/skovati/Documents/School/CS200/TestNestedPrinting.java",
+		"/home/skovati/Documents/School/CS200/ComprehensiveDNASequence.java",
+		"/home/skovati/Documents/School/CS200/WordSearch.java",
+		"/home/skovati/code/openvpn/skovati-1.ovpn",
+		"/home/skovati/Documents/School/CS200/WordSearch.java.old",
+		"/home/skovati/.config/spicetify/Themes/xresources/color.ini"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"info",
+			"Update",
+			"update",
+			"Detail",
+			"form",
+			"Create",
+			"title",
+			"\"\n",
+			"register",
+			"bg-steel",
+			"length",
+			"return",
+			"negOne",
+			"s",
+			"r",
+			"b",
+			"sp",
+			"fw",
+			"b",
+			"i",
+			"mn2",
+			"computerID",
+			"t",
+			"emptySpace",
+			"mn2",
+			"mn4",
+			"mn3",
+			"pfm",
+			"mn1",
+			"cm",
+			"mn6",
+			"mn5",
+			"dictionaryWords",
+			"readDictionary",
+			"dictionaryFilename",
+			"03642",
+			"5294E2",
+			"03642"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "django_blog/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								837,
+								837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "users/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								589,
+								589
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "django.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
